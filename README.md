@@ -1,4 +1,4 @@
-
+![Myself...](https://github.com/juliobugfixer/juliobugfixer/blob/6a34c9c6de26dfde56011587a9f3422bde164fba/debugging....png)
 ## Bem-vindo!✅
 👋Olá! Sou o Júlio!
 ##
