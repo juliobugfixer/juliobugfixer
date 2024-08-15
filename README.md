@@ -52,9 +52,9 @@ Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
 
 
 ## 🌟 Projetos em Destaque
-- Marketplace de Salões de Eventos: Uma plataforma para reservas de salões de eventos.
+- _Marketplace de Salões de Eventos:_ Uma plataforma para reservas de salões de eventos.
 
-- Sistema de Gestão para o Núcleo de Desenvolvimento e Programação Competitiva: Um sistema integrado para gerir informações e recursos do núcleo pertencente ao Instituto de Tecnologias de Informação e Comunicação.
+- _Sistema de Gestão para o Núcleo de Desenvolvimento e Programação Competitiva:_ Um sistema integrado para gerir informações e recursos do núcleo pertencente ao Instituto de Tecnologias de Informação e Comunicação.
 
 ## 🏆 Conquistas
 - Colabordador de uma biblioteca virtual premiada na categoria "Impacto Académico" na 5ª Conferência Científica de Tecnologia, Inovação e Empreendedorismo da Universidade de Luanda.
