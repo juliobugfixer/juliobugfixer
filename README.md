@@ -14,7 +14,7 @@ Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
 
 ## 🚀 Habilidades
 **Modelagem**
-- ![UML](https://img.shields.io/badge/UML-FF5733?style=for-the-badge&logo=uml&logoColor=white)](https://www.uml.org/)
+- ![UML](https://img.shields.io/badge/UML-FF5733?style=for-the-badge&logo=uml&logoColor=white)
 
 **Back-end**
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
