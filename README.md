@@ -1,4 +1,4 @@
-![Myself...](https://github.com/juliobugfixer/juliobugfixer/blob/6a34c9c6de26dfde56011587a9f3422bde164fba/debugging....png)
+
 ## Bem-vindo!✅
 👋Olá! Sou o Júlio!
 ##
@@ -8,11 +8,13 @@ Jovem  apaixonado por tecnologias de informação e comunicação, estudante de 
 Membro da comunidade [Angola Open-Source Community](<https://www.linkedin.com/company/angola-open-source-community/>), o que tem reforçado meu compromisso com o compartilhamento de conhecimento e a colaboração em projetos abertos.
 
 Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
+<p align="right">
+  <img src="https://github.com/juliobugfixer/juliobugfixer/blob/6a34c9c6de26dfde56011587a9f3422bde164fba/debugging....png" alt="Myself..." width="400">
+</p>
 
 ## 🚀 Habilidades
-
 **Modelagem**
-- [![UML](https://img.shields.io/badge/UML-FF5733?style=for-the-badge&logo=uml&logoColor=white)](https://www.uml.org/)
+- ![UML](https://img.shields.io/badge/UML-FF5733?style=for-the-badge&logo=uml&logoColor=white)](https://www.uml.org/)
 
 **Back-end**
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -49,7 +51,6 @@ Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 - ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
 
 ## 🌟 Projetos em Destaque
 - __Marketplace de Salões de Eventos:__ Uma plataforma para reservas de salões de eventos.
