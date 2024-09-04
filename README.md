@@ -59,11 +59,11 @@ Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
 
 Aqui estão as linguagens de programação mais frequentes nos meus projetos:
 
-![Linguagens Frequentes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?user=juliobugfixer&layout=compact&theme=light&border_color=512BD4&title_color=E94D5F&text_color=00000)
+![Linguagens Frequentes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juliobugfixer&layout=compact&theme=light&border_color=512BD4&title_color=E94D5F&text_color=00000)
 
 
 ## 🛠️ Contribuições em Projetos
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=juliobugfixer&theme=light)
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=juliobugfixer&theme=dark)
 
 ## 📊 Estatísticas no Github
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=juliobugfixer&show_icons=true&theme=light)
