@@ -55,7 +55,7 @@ Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
 
 
 ## 💻 Linguagens Frequentes
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliobugfixer&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliobugfixer&theme=light&hide_border=true)
 
 
 ## 🛠️ Contribuições em Projetos
